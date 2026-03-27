@@ -1,5 +1,4 @@
 #Calculating the half-life of a substance using its decay constant
-
 import numpy as np
 
 def calculate_half_life(lambda_decay):
