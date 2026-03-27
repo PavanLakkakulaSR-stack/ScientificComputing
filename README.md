@@ -1,4 +1,11 @@
-# Scientific Computing Practice scripts
-Calculating physics and math constants used in theoretical and applied physics also performing basic simulations
+Scientific Computing & Physics Simulations
 
-Adding my practice code used to master basics in python and its packages used for physics and math
+A Journey from Mathematical Foundations to High-Energy Physics (HEP)
+This repository has the documents of my progression from implementing fundamental mathematical constants to simulating complex physical systems like those encountered in High-Energy Physics.
+
+Note: I am now publicly submitting these files from my personal "Practice and Mastery" collection to provide transparency into my analytical background and coding evolution for the GSoC 2026 @ CERN-HSF review period.
+
+Tech Stack
+Language: Python 3.10+
+
+Libraries: NumPy (Numerical Arrays), Matplotlib (Data Visualization), Random (Stochastic Sampling).
